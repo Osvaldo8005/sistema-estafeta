@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sistema-estafeta/static/css/main.a0cb4eaa.css",
+    "main.js": "/sistema-estafeta/static/js/main.baef32d3.js",
+    "static/js/453.595378ba.chunk.js": "/sistema-estafeta/static/js/453.595378ba.chunk.js",
+    "static/media/slick.svg": "/sistema-estafeta/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sistema-estafeta/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sistema-estafeta/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sistema-estafeta/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sistema-estafeta/index.html",
+    "main.a0cb4eaa.css.map": "/sistema-estafeta/static/css/main.a0cb4eaa.css.map",
+    "main.baef32d3.js.map": "/sistema-estafeta/static/js/main.baef32d3.js.map",
+    "453.595378ba.chunk.js.map": "/sistema-estafeta/static/js/453.595378ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0cb4eaa.css",
+    "static/js/main.baef32d3.js"
+  ]
+}
